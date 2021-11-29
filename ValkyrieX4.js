@@ -68,9 +68,9 @@ let ValkyrieX4thumb = 'https://telegra.ph/file/f1674683f8d9cb89e015f.jpg'
 
 banChats = true
 offline = false
-ownerNumber = ["6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net","6287705048235@s.whatsapp.net"]
-targetpc = '6287705048235'
-owner = '6287705048235'
+ownerNumber = ["6281262411188@s.whatsapp.net"]
+targetpc = '6281262411188'
+owner = '6281262411188'
 fake = 'ValkyrieX4·Team'
 botName = 'KirBotz×'
 numbernye = '0'
@@ -883,11 +883,11 @@ break
 Valkyrie.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mentionedJid: [sender]},quoted:fgi})
 break
 case 'menupptx':
-Valkyrie.sendMessage(from, {"contentText": `Hai Kak *${pushname}* ${ucapanWaktu}
+Valkyrie.sendMessage(from, {"contentText": `Hai Tod *${pushname}* ${ucapanWaktu}
 
 *──────" 𝕭𝖔𝖙 𝕴𝖓𝖋𝖔 "──────*
- 👤OWNER : *https://wa.me/6287705048235*
- 💌EMAIL : *tesheroku123@gmail.com*
+ 👤OWNER : *https://wa.me/6281262411188*
+ 💌EMAIL : *Surantasembiringkembarens@gmail.com*
  🔎YT : *https://bit.ly/3BpBe1Z*
  🪀GROUP : *https://bit.ly/3Ene2TO*
 `,"footerText": `
@@ -924,15 +924,15 @@ case 'menuxlsx':
 Valkyrie.sendMessage(from, {"contentText": `Hai Kak *${pushname}* ${ucapanWaktu}
 
 *──────" 𝕭𝖔𝖙 𝕴𝖓𝖋𝖔 "──────*
- 👤OWNER : *https://wa.me/6287705048235*
+ 👤OWNER : *https://wa.me/6281262411188*
  💌EMAIL : *tesheroku123@gmail.com*
  🔎YT : *https://bit.ly/3BpBe1Z*
  🪀GROUP : *https://bit.ly/3Ene2TO*
 `,"footerText": `
 Valkyrie·Team
 ANGGOTA TEAM
-メLord Akira⁴̅⁰͍⁴̵
-メLord Ozann⁴̅⁰͍⁴̵
+メLord Xynta⁴̅⁰͍⁴̵
+メLord Caca⁴̅⁰͍⁴̵
 メLord Kahfz⁴̅⁰͍⁴̵
 メLord Aril⁴̅⁰͍⁴̵l
 メLord Pebri⁴̅⁰͍⁴̵
@@ -1000,8 +1000,8 @@ case 'menuzip':
 Valkyrie.sendMessage(from, {"contentText": `Hai Kak *${pushname}* ${ucapanWaktu}
 
 *──────" 𝕭𝖔𝖙 𝕴𝖓𝖋𝖔 "──────*
- 👤OWNER : *https://wa.me/6287705048235*
- 💌EMAIL : *tesheroku123@gmail.com*
+ 👤OWNER : *https://wa.me/6281262411188*
+ 💌EMAIL : *Surantasembiringkembarens@gmail.com*
  🔎YT : *https://bit.ly/3BpBe1Z*
  🪀GROUP : *https://bit.ly/3Ene2TO*
 `,"footerText": `
@@ -1345,8 +1345,8 @@ menuh = `${ucapanWaktu} 𝐊𝐚𝐤 @${sender.split("@")[0]}
 ꪶ ཻུ۪۪ꦽꦼ̷ _*devote*_`
 Valkyrie.sendMessage(from, { contentText: `${menuh}`, footerText: `
 *──────" 𝕭𝖔𝖙 𝕴𝖓𝖋𝖔 "──────*
- 👤OWNER : *https://wa.me/6287705048235*
- 💌EMAIL : *tesheroku123@gmail.com*
+ 👤OWNER : *https://wa.me/6281262411188*
+ 💌EMAIL : *surantasembiringkembarens@gmail.com*
  🔎YT : *https://bit.ly/3BpBe1Z*
  🪀GROUP : *https://bit.ly/3Ene2TO*
 
@@ -1373,7 +1373,7 @@ case "astetick":
 case 'sewabot':
 thu = await Valkyrie.getStatus(`${sender.split('@')[0]}@s.whatsapp.net`, MessageType.text)
 menuh = `${ucapanWaktu} 𝐊𝐚𝐤 @${sender.split("@")[0]}
-Yakin Nih Mau Sewa Bot ? 🤔 Boong Auto Banned >_<`
+Yakin Nih Mau Sewa Bot ? 🤔 Boong Auto Banned ya tod >_<`
 Valkyrie.sendMessage(from, { contentText: `${menuh}`, footerText: `Tanggal:  *${date}*\nJam: *${time}*\nRuntime : *${runtime(process.uptime())}*\n𝕶𝖎𝖗𝕭𝖔𝖙𝖟ꪶ𖣂ꫂ`, buttons: [{ buttonId: `${prefix}sewa1`, buttonText: { displayText: '🗿Ya' }, type: 1 },{ buttonId: `${prefix}gk`, buttonText: { displayText: '👀Tidak' }, type: 1 }], headerType: 'LOCATION', locationMessage: { degreesLatitude: '', degreesLongitude: '', jpegThumbnail: tamnel, contextInfo: {mentionedJid: [sender, ownerNumber]}}}, 'buttonsMessage')
 break
 case 'sewa1':
@@ -1476,7 +1476,7 @@ case 'via':
 			headerType: 1
 			}
             Valkyrie.sendMessage(from, buttonMessagep, MessageType.buttonsMessage, 
-            {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `6287705048235@s.whatsapp.net`, 'remoteJid': 'status@broadcast', 'quotedMessage': {"imageMessage": {"caption": `©KirBotz`, 'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}})
+            {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `6281262411188@s.whatsapp.net`, 'remoteJid': 'status@broadcast', 'quotedMessage': {"imageMessage": {"caption": `©CaaBotz`, 'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}})
             } else
 if ((args[0]) == 'gopay'){
             payu =`${gopay}`            
@@ -1489,7 +1489,7 @@ if ((args[0]) == 'gopay'){
 			headerType: 1
 			}
             Valkyrie.sendMessage(from, buttonMessageg, MessageType.buttonsMessage, 
-            {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `6287705048235@s.whatsapp.net`, 'remoteJid': 'status@broadcast', 'quotedMessage': {"imageMessage": {"caption": `©KirBotz`, 'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}})
+            {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `6281262411188@s.whatsapp.net`, 'remoteJid': 'status@broadcast', 'quotedMessage': {"imageMessage": {"caption": `©KirBotz`, 'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}})
             } else
 if ((args[0]) == 'ovo'){
             voto =`${ovo}`            
@@ -1502,7 +1502,7 @@ if ((args[0]) == 'ovo'){
 			headerType: 1
 			}
             Valkyrie.sendMessage(from, buttonMessageo, MessageType.buttonsMessage, 
-            {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `6287705048235@s.whatsapp.net`, 'remoteJid': 'status@broadcast', 'quotedMessage': {"imageMessage": {"caption": `©KirBotz`, 'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}})
+            {contextInfo:{"forwardingScore":999,"isForwarded":true,'stanzaId': "B826873620DD5947E683E3ABE663F263", 'participant': `6281262411188@s.whatsapp.net`, 'remoteJid': 'status@broadcast', 'quotedMessage': {"imageMessage": {"caption": `©KirBotz`, 'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')}}}})
                    
             }
             break
@@ -1552,7 +1552,7 @@ var imgs = await Valkyrie.prepareMessage('0@c.us', tamnel, image, { thumbnail: t
                         "retailerId": `SUBSCRIBE YT : KirBotz×`,
                         "url": "https://wa.me/6287705048235"
                     },
-                    "businessOwnerJid": "6287705048235@s.whatsapp.net",
+                    "businessOwnerJid": "6281262411188@s.whatsapp.net",
                 }
             }, { quoted: mek, mimetype: 'image/jpeg' })
             Valkyrie.relayWAMessage(ctlg)
